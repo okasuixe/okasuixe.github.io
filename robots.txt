@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://okasuixe.github.io/NjR/sitemap_index.txt
+Sitemap: https://okasuixe.github.io/QWG/sitemap_index.txt
+Sitemap: https://okasuixe.github.io/VrB/sitemap_index.txt
+Sitemap: https://okasuixe.github.io/epD/sitemap_index.txt
